@@ -104,6 +104,10 @@ Aplicación realizada para el funcionamiento del parking a través de sensores y
       Poner lo mostrado cuando decides cambiar un sensor
       ~~~~
     4.**Administrador**
+        Tras elegir la opción de mostrar estadísticas se mostrará:
+      ~~~~
+      Poner lo mostrado cuando te muestra las estadisticas
+      ~~~~
 
 ## Estructura de archivos
 - `main`:
