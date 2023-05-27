@@ -91,9 +91,7 @@ Aplicación realizada para el funcionamiento del parking a través de sensores y
             Tu plaza es: 72
             ~~~~
        - Tras elegir la opción de desocupar tu plaza se vaciará la plaza y se procederá a cerra la aplicación
-            ~~~~
-            Poner aqui el codigo mostrado cuando decides vaciar una plaza
-            ~~~~
+            
         - Tras elegir la opción de salir se cerrará la aplicación
 
     2.**Seguridad**
