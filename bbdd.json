@@ -1,1 +1,4043 @@
+{
+	"USUARIOS": [
+		{
+			"role": "usuario",
+			"matricula": "9292FRG",
+			"usuario": "aa",
+			"contrasenia": "aa"
+		},
+		{
+			"role": "seguridad",
+			"usuario": "seguridad",
+			"contrasenia": "seguridad"
+		},
+		{
+			"role": "administrador",
+			"usuario": "admin",
+			"contrasenia": "admin"
+		}
+	],
+	"PARKING": {
+		"Nombre": "Estacionamiento UEM",
+		"Ubicacion": "Calle Tajo  #10",
+		"CambiosSeg": 3,
+		"Plazas": [
+			{
+				"sensor": "sensor_1",
+				"id": 1,
+				"veces_ocupada": 3,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_1",
+				"id": 2,
+				"veces_ocupada": 0,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_1",
+				"id": 3,
+				"veces_ocupada": 0,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_1",
+				"id": 4,
+				"veces_ocupada": 0,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_2",
+				"id": 5,
+				"veces_ocupada": 0,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_2",
+				"id": 6,
+				"veces_ocupada": 0,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_2",
+				"id": 7,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_2",
+				"id": 8,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_3",
+				"id": 9,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_3",
+				"id": 10,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_3",
+				"id": 11,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_3",
+				"id": 12,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_4",
+				"id": 13,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_4",
+				"id": 14,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_4",
+				"id": 15,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_4",
+				"id": 16,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_5",
+				"id": 17,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_5",
+				"id": 18,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_5",
+				"id": 19,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_5",
+				"id": 20,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_6",
+				"id": 21,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_6",
+				"id": 22,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_6",
+				"id": 23,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_6",
+				"id": 24,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_7",
+				"id": 25,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_7",
+				"id": 26,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_7",
+				"id": 27,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_7",
+				"id": 28,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_8",
+				"id": 29,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_8",
+				"id": 30,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_8",
+				"id": 31,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_8",
+				"id": 32,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_9",
+				"id": 33,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_9",
+				"id": 34,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_9",
+				"id": 35,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_9",
+				"id": 36,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_10",
+				"id": 37,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_10",
+				"id": 38,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_10",
+				"id": 39,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_10",
+				"id": 40,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_11",
+				"id": 41,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_11",
+				"id": 42,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_11",
+				"id": 43,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_11",
+				"id": 44,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_12",
+				"id": 45,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_12",
+				"id": 46,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_12",
+				"id": 47,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_12",
+				"id": 48,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_13",
+				"id": 49,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_13",
+				"id": 50,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_13",
+				"id": 51,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_13",
+				"id": 52,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_14",
+				"id": 53,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_14",
+				"id": 54,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_14",
+				"id": 55,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_14",
+				"id": 56,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_15",
+				"id": 57,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_15",
+				"id": 58,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_15",
+				"id": 59,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_15",
+				"id": 60,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_16",
+				"id": 61,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_16",
+				"id": 62,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_16",
+				"id": 63,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_16",
+				"id": 64,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_17",
+				"id": 65,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_17",
+				"id": 66,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_17",
+				"id": 67,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_17",
+				"id": 68,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_18",
+				"id": 69,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_18",
+				"id": 70,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_18",
+				"id": 71,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_18",
+				"id": 72,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_19",
+				"id": 73,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_19",
+				"id": 74,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_19",
+				"id": 75,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_19",
+				"id": 76,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_20",
+				"id": 77,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_20",
+				"id": 78,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_20",
+				"id": 79,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_20",
+				"id": 80,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_21",
+				"id": 81,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_21",
+				"id": 82,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_21",
+				"id": 83,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_21",
+				"id": 84,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_22",
+				"id": 85,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_22",
+				"id": 86,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_22",
+				"id": 87,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_22",
+				"id": 88,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_23",
+				"id": 89,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_23",
+				"id": 90,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_23",
+				"id": 91,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_23",
+				"id": 92,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_24",
+				"id": 93,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_24",
+				"id": 94,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_24",
+				"id": 95,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_24",
+				"id": 96,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_25",
+				"id": 97,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_25",
+				"id": 98,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_25",
+				"id": 99,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_25",
+				"id": 100,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_26",
+				"id": 101,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_26",
+				"id": 102,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_26",
+				"id": 103,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_26",
+				"id": 104,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_27",
+				"id": 105,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_27",
+				"id": 106,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_27",
+				"id": 107,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_27",
+				"id": 108,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_28",
+				"id": 109,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_28",
+				"id": 110,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_28",
+				"id": 111,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_28",
+				"id": 112,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_29",
+				"id": 113,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_29",
+				"id": 114,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_29",
+				"id": 115,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_29",
+				"id": 116,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_30",
+				"id": 117,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_30",
+				"id": 118,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_30",
+				"id": 119,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_30",
+				"id": 120,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_31",
+				"id": 121,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_31",
+				"id": 122,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_31",
+				"id": 123,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_31",
+				"id": 124,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_32",
+				"id": 125,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_32",
+				"id": 126,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_32",
+				"id": 127,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_32",
+				"id": 128,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_33",
+				"id": 129,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_33",
+				"id": 130,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_33",
+				"id": 131,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_33",
+				"id": 132,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_34",
+				"id": 133,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_34",
+				"id": 134,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_34",
+				"id": 135,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_34",
+				"id": 136,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_35",
+				"id": 137,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_35",
+				"id": 138,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_35",
+				"id": 139,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_35",
+				"id": 140,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_36",
+				"id": 141,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_36",
+				"id": 142,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_36",
+				"id": 143,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_36",
+				"id": 144,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_37",
+				"id": 145,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_37",
+				"id": 146,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_37",
+				"id": 147,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_37",
+				"id": 148,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_38",
+				"id": 149,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_38",
+				"id": 150,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_38",
+				"id": 151,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_38",
+				"id": 152,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_39",
+				"id": 153,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_39",
+				"id": 154,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_39",
+				"id": 155,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_39",
+				"id": 156,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_40",
+				"id": 157,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_40",
+				"id": 158,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_40",
+				"id": 159,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_40",
+				"id": 160,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_41",
+				"id": 161,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_41",
+				"id": 162,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_41",
+				"id": 163,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_41",
+				"id": 164,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_42",
+				"id": 165,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_42",
+				"id": 166,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_42",
+				"id": 167,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_42",
+				"id": 168,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_43",
+				"id": 169,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_43",
+				"id": 170,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_43",
+				"id": 171,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_43",
+				"id": 172,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_44",
+				"id": 173,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_44",
+				"id": 174,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_44",
+				"id": 175,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_44",
+				"id": 176,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_45",
+				"id": 177,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_45",
+				"id": 178,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_45",
+				"id": 179,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_45",
+				"id": 180,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_46",
+				"id": 181,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_46",
+				"id": 182,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_46",
+				"id": 183,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_46",
+				"id": 184,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_47",
+				"id": 185,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_47",
+				"id": 186,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_47",
+				"id": 187,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_47",
+				"id": 188,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_48",
+				"id": 189,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_48",
+				"id": 190,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_48",
+				"id": 191,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_48",
+				"id": 192,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_49",
+				"id": 193,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_49",
+				"id": 194,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_49",
+				"id": 195,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_49",
+				"id": 196,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_50",
+				"id": 197,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_50",
+				"id": 198,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_50",
+				"id": 199,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_50",
+				"id": 200,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_51",
+				"id": 201,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_51",
+				"id": 202,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_51",
+				"id": 203,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_51",
+				"id": 204,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_52",
+				"id": 205,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_52",
+				"id": 206,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_52",
+				"id": 207,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_52",
+				"id": 208,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_53",
+				"id": 209,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_53",
+				"id": 210,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_53",
+				"id": 211,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_53",
+				"id": 212,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_54",
+				"id": 213,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_54",
+				"id": 214,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_54",
+				"id": 215,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_54",
+				"id": 216,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_55",
+				"id": 217,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_55",
+				"id": 218,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_55",
+				"id": 219,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_55",
+				"id": 220,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_56",
+				"id": 221,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_56",
+				"id": 222,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_56",
+				"id": 223,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_56",
+				"id": 224,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_57",
+				"id": 225,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_57",
+				"id": 226,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_57",
+				"id": 227,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_57",
+				"id": 228,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_58",
+				"id": 229,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_58",
+				"id": 230,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_58",
+				"id": 231,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_58",
+				"id": 232,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_59",
+				"id": 233,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_59",
+				"id": 234,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_59",
+				"id": 235,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_59",
+				"id": 236,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_60",
+				"id": 237,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_60",
+				"id": 238,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_60",
+				"id": 239,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_60",
+				"id": 240,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_61",
+				"id": 241,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_61",
+				"id": 242,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_61",
+				"id": 243,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_61",
+				"id": 244,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_62",
+				"id": 245,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_62",
+				"id": 246,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_62",
+				"id": 247,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_62",
+				"id": 248,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_63",
+				"id": 249,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_63",
+				"id": 250,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_63",
+				"id": 251,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_63",
+				"id": 252,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_64",
+				"id": 253,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_64",
+				"id": 254,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_64",
+				"id": 255,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_64",
+				"id": 256,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_65",
+				"id": 257,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_65",
+				"id": 258,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_65",
+				"id": 259,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_65",
+				"id": 260,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_66",
+				"id": 261,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_66",
+				"id": 262,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_66",
+				"id": 263,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_66",
+				"id": 264,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_67",
+				"id": 265,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_67",
+				"id": 266,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_67",
+				"id": 267,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_67",
+				"id": 268,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_68",
+				"id": 269,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_68",
+				"id": 270,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_68",
+				"id": 271,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_68",
+				"id": 272,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_69",
+				"id": 273,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_69",
+				"id": 274,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_69",
+				"id": 275,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_69",
+				"id": 276,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_70",
+				"id": 277,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_70",
+				"id": 278,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_70",
+				"id": 279,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_70",
+				"id": 280,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_71",
+				"id": 281,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_71",
+				"id": 282,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_71",
+				"id": 283,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_71",
+				"id": 284,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_72",
+				"id": 285,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_72",
+				"id": 286,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_72",
+				"id": 287,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_72",
+				"id": 288,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_73",
+				"id": 289,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_73",
+				"id": 290,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_73",
+				"id": 291,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_73",
+				"id": 292,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_74",
+				"id": 293,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_74",
+				"id": 294,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_74",
+				"id": 295,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_74",
+				"id": 296,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_75",
+				"id": 297,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_75",
+				"id": 298,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_75",
+				"id": 299,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_75",
+				"id": 300,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_76",
+				"id": 301,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_76",
+				"id": 302,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_76",
+				"id": 303,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_76",
+				"id": 304,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_77",
+				"id": 305,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_77",
+				"id": 306,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_77",
+				"id": 307,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_77",
+				"id": 308,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_78",
+				"id": 309,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_78",
+				"id": 310,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_78",
+				"id": 311,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_78",
+				"id": 312,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_79",
+				"id": 313,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_79",
+				"id": 314,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_79",
+				"id": 315,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_79",
+				"id": 316,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_80",
+				"id": 317,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_80",
+				"id": 318,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_80",
+				"id": 319,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_80",
+				"id": 320,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_81",
+				"id": 321,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_81",
+				"id": 322,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_81",
+				"id": 323,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_81",
+				"id": 324,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_82",
+				"id": 325,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_82",
+				"id": 326,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_82",
+				"id": 327,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_82",
+				"id": 328,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_83",
+				"id": 329,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_83",
+				"id": 330,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_83",
+				"id": 331,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_83",
+				"id": 332,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_84",
+				"id": 333,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_84",
+				"id": 334,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_84",
+				"id": 335,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_84",
+				"id": 336,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_85",
+				"id": 337,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_85",
+				"id": 338,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_85",
+				"id": 339,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_85",
+				"id": 340,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_86",
+				"id": 341,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_86",
+				"id": 342,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_86",
+				"id": 343,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_86",
+				"id": 344,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_87",
+				"id": 345,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_87",
+				"id": 346,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_87",
+				"id": 347,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_87",
+				"id": 348,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_88",
+				"id": 349,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_88",
+				"id": 350,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_88",
+				"id": 351,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_88",
+				"id": 352,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_89",
+				"id": 353,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_89",
+				"id": 354,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_89",
+				"id": 355,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_89",
+				"id": 356,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_90",
+				"id": 357,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_90",
+				"id": 358,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_90",
+				"id": 359,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_90",
+				"id": 360,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_91",
+				"id": 361,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_91",
+				"id": 362,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_91",
+				"id": 363,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_91",
+				"id": 364,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_92",
+				"id": 365,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_92",
+				"id": 366,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_92",
+				"id": 367,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_92",
+				"id": 368,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_93",
+				"id": 369,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_93",
+				"id": 370,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_93",
+				"id": 371,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_93",
+				"id": 372,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_94",
+				"id": 373,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_94",
+				"id": 374,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_94",
+				"id": 375,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_94",
+				"id": 376,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_95",
+				"id": 377,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_95",
+				"id": 378,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_95",
+				"id": 379,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_95",
+				"id": 380,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_96",
+				"id": 381,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_96",
+				"id": 382,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_96",
+				"id": 383,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_96",
+				"id": 384,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_97",
+				"id": 385,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_97",
+				"id": 386,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_97",
+				"id": 387,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_97",
+				"id": 388,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_98",
+				"id": 389,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_98",
+				"id": 390,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_98",
+				"id": 391,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_98",
+				"id": 392,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_99",
+				"id": 393,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_99",
+				"id": 394,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_99",
+				"id": 395,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_99",
+				"id": 396,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_100",
+				"id": 397,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_100",
+				"id": 398,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_100",
+				"id": 399,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_100",
+				"id": 400,
+				"disponible": true
+			}
+		],
+		"Parking": [
+			{
+				"sensor": "sensor_1",
+				"id": 1,
+				"veces_ocupada": 3,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_1",
+				"id": 2,
+				"veces_ocupada": 0,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_1",
+				"id": 3,
+				"veces_ocupada": 0,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_1",
+				"id": 4,
+				"veces_ocupada": 0,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_2",
+				"id": 5,
+				"veces_ocupada": 0,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_2",
+				"id": 6,
+				"veces_ocupada": 0,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_2",
+				"id": 7,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_2",
+				"id": 8,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_3",
+				"id": 9,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_3",
+				"id": 10,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_3",
+				"id": 11,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_3",
+				"id": 12,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_4",
+				"id": 13,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_4",
+				"id": 14,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_4",
+				"id": 15,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_4",
+				"id": 16,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_5",
+				"id": 17,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_5",
+				"id": 18,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_5",
+				"id": 19,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_5",
+				"id": 20,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_6",
+				"id": 21,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_6",
+				"id": 22,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_6",
+				"id": 23,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_6",
+				"id": 24,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_7",
+				"id": 25,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_7",
+				"id": 26,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_7",
+				"id": 27,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_7",
+				"id": 28,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_8",
+				"id": 29,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_8",
+				"id": 30,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_8",
+				"id": 31,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_8",
+				"id": 32,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_9",
+				"id": 33,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_9",
+				"id": 34,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_9",
+				"id": 35,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_9",
+				"id": 36,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_10",
+				"id": 37,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_10",
+				"id": 38,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_10",
+				"id": 39,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_10",
+				"id": 40,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_11",
+				"id": 41,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_11",
+				"id": 42,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_11",
+				"id": 43,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_11",
+				"id": 44,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_12",
+				"id": 45,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_12",
+				"id": 46,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_12",
+				"id": 47,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_12",
+				"id": 48,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_13",
+				"id": 49,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_13",
+				"id": 50,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_13",
+				"id": 51,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_13",
+				"id": 52,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_14",
+				"id": 53,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_14",
+				"id": 54,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_14",
+				"id": 55,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_14",
+				"id": 56,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_15",
+				"id": 57,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_15",
+				"id": 58,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_15",
+				"id": 59,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_15",
+				"id": 60,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_16",
+				"id": 61,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_16",
+				"id": 62,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_16",
+				"id": 63,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_16",
+				"id": 64,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_17",
+				"id": 65,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_17",
+				"id": 66,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_17",
+				"id": 67,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_17",
+				"id": 68,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_18",
+				"id": 69,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_18",
+				"id": 70,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_18",
+				"id": 71,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_18",
+				"id": 72,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_19",
+				"id": 73,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_19",
+				"id": 74,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_19",
+				"id": 75,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_19",
+				"id": 76,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_20",
+				"id": 77,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_20",
+				"id": 78,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_20",
+				"id": 79,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_20",
+				"id": 80,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_21",
+				"id": 81,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_21",
+				"id": 82,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_21",
+				"id": 83,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_21",
+				"id": 84,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_22",
+				"id": 85,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_22",
+				"id": 86,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_22",
+				"id": 87,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_22",
+				"id": 88,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_23",
+				"id": 89,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_23",
+				"id": 90,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_23",
+				"id": 91,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_23",
+				"id": 92,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_24",
+				"id": 93,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_24",
+				"id": 94,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_24",
+				"id": 95,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_24",
+				"id": 96,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_25",
+				"id": 97,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_25",
+				"id": 98,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_25",
+				"id": 99,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_25",
+				"id": 100,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_26",
+				"id": 101,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_26",
+				"id": 102,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_26",
+				"id": 103,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_26",
+				"id": 104,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_27",
+				"id": 105,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_27",
+				"id": 106,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_27",
+				"id": 107,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_27",
+				"id": 108,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_28",
+				"id": 109,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_28",
+				"id": 110,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_28",
+				"id": 111,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_28",
+				"id": 112,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_29",
+				"id": 113,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_29",
+				"id": 114,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_29",
+				"id": 115,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_29",
+				"id": 116,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_30",
+				"id": 117,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_30",
+				"id": 118,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_30",
+				"id": 119,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_30",
+				"id": 120,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_31",
+				"id": 121,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_31",
+				"id": 122,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_31",
+				"id": 123,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_31",
+				"id": 124,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_32",
+				"id": 125,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_32",
+				"id": 126,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_32",
+				"id": 127,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_32",
+				"id": 128,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_33",
+				"id": 129,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_33",
+				"id": 130,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_33",
+				"id": 131,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_33",
+				"id": 132,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_34",
+				"id": 133,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_34",
+				"id": 134,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_34",
+				"id": 135,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_34",
+				"id": 136,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_35",
+				"id": 137,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_35",
+				"id": 138,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_35",
+				"id": 139,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_35",
+				"id": 140,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_36",
+				"id": 141,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_36",
+				"id": 142,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_36",
+				"id": 143,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_36",
+				"id": 144,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_37",
+				"id": 145,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_37",
+				"id": 146,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_37",
+				"id": 147,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_37",
+				"id": 148,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_38",
+				"id": 149,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_38",
+				"id": 150,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_38",
+				"id": 151,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_38",
+				"id": 152,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_39",
+				"id": 153,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_39",
+				"id": 154,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_39",
+				"id": 155,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_39",
+				"id": 156,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_40",
+				"id": 157,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_40",
+				"id": 158,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_40",
+				"id": 159,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_40",
+				"id": 160,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_41",
+				"id": 161,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_41",
+				"id": 162,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_41",
+				"id": 163,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_41",
+				"id": 164,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_42",
+				"id": 165,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_42",
+				"id": 166,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_42",
+				"id": 167,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_42",
+				"id": 168,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_43",
+				"id": 169,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_43",
+				"id": 170,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_43",
+				"id": 171,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_43",
+				"id": 172,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_44",
+				"id": 173,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_44",
+				"id": 174,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_44",
+				"id": 175,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_44",
+				"id": 176,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_45",
+				"id": 177,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_45",
+				"id": 178,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_45",
+				"id": 179,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_45",
+				"id": 180,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_46",
+				"id": 181,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_46",
+				"id": 182,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_46",
+				"id": 183,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_46",
+				"id": 184,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_47",
+				"id": 185,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_47",
+				"id": 186,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_47",
+				"id": 187,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_47",
+				"id": 188,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_48",
+				"id": 189,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_48",
+				"id": 190,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_48",
+				"id": 191,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_48",
+				"id": 192,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_49",
+				"id": 193,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_49",
+				"id": 194,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_49",
+				"id": 195,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_49",
+				"id": 196,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_50",
+				"id": 197,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_50",
+				"id": 198,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_50",
+				"id": 199,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_50",
+				"id": 200,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_51",
+				"id": 201,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_51",
+				"id": 202,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_51",
+				"id": 203,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_51",
+				"id": 204,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_52",
+				"id": 205,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_52",
+				"id": 206,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_52",
+				"id": 207,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_52",
+				"id": 208,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_53",
+				"id": 209,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_53",
+				"id": 210,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_53",
+				"id": 211,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_53",
+				"id": 212,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_54",
+				"id": 213,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_54",
+				"id": 214,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_54",
+				"id": 215,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_54",
+				"id": 216,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_55",
+				"id": 217,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_55",
+				"id": 218,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_55",
+				"id": 219,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_55",
+				"id": 220,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_56",
+				"id": 221,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_56",
+				"id": 222,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_56",
+				"id": 223,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_56",
+				"id": 224,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_57",
+				"id": 225,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_57",
+				"id": 226,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_57",
+				"id": 227,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_57",
+				"id": 228,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_58",
+				"id": 229,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_58",
+				"id": 230,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_58",
+				"id": 231,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_58",
+				"id": 232,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_59",
+				"id": 233,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_59",
+				"id": 234,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_59",
+				"id": 235,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_59",
+				"id": 236,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_60",
+				"id": 237,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_60",
+				"id": 238,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_60",
+				"id": 239,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_60",
+				"id": 240,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_61",
+				"id": 241,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_61",
+				"id": 242,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_61",
+				"id": 243,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_61",
+				"id": 244,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_62",
+				"id": 245,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_62",
+				"id": 246,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_62",
+				"id": 247,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_62",
+				"id": 248,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_63",
+				"id": 249,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_63",
+				"id": 250,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_63",
+				"id": 251,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_63",
+				"id": 252,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_64",
+				"id": 253,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_64",
+				"id": 254,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_64",
+				"id": 255,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_64",
+				"id": 256,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_65",
+				"id": 257,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_65",
+				"id": 258,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_65",
+				"id": 259,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_65",
+				"id": 260,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_66",
+				"id": 261,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_66",
+				"id": 262,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_66",
+				"id": 263,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_66",
+				"id": 264,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_67",
+				"id": 265,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_67",
+				"id": 266,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_67",
+				"id": 267,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_67",
+				"id": 268,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_68",
+				"id": 269,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_68",
+				"id": 270,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_68",
+				"id": 271,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_68",
+				"id": 272,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_69",
+				"id": 273,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_69",
+				"id": 274,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_69",
+				"id": 275,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_69",
+				"id": 276,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_70",
+				"id": 277,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_70",
+				"id": 278,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_70",
+				"id": 279,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_70",
+				"id": 280,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_71",
+				"id": 281,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_71",
+				"id": 282,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_71",
+				"id": 283,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_71",
+				"id": 284,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_72",
+				"id": 285,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_72",
+				"id": 286,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_72",
+				"id": 287,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_72",
+				"id": 288,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_73",
+				"id": 289,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_73",
+				"id": 290,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_73",
+				"id": 291,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_73",
+				"id": 292,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_74",
+				"id": 293,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_74",
+				"id": 294,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_74",
+				"id": 295,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_74",
+				"id": 296,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_75",
+				"id": 297,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_75",
+				"id": 298,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_75",
+				"id": 299,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_75",
+				"id": 300,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_76",
+				"id": 301,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_76",
+				"id": 302,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_76",
+				"id": 303,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_76",
+				"id": 304,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_77",
+				"id": 305,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_77",
+				"id": 306,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_77",
+				"id": 307,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_77",
+				"id": 308,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_78",
+				"id": 309,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_78",
+				"id": 310,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_78",
+				"id": 311,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_78",
+				"id": 312,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_79",
+				"id": 313,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_79",
+				"id": 314,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_79",
+				"id": 315,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_79",
+				"id": 316,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_80",
+				"id": 317,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_80",
+				"id": 318,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_80",
+				"id": 319,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_80",
+				"id": 320,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_81",
+				"id": 321,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_81",
+				"id": 322,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_81",
+				"id": 323,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_81",
+				"id": 324,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_82",
+				"id": 325,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_82",
+				"id": 326,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_82",
+				"id": 327,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_82",
+				"id": 328,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_83",
+				"id": 329,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_83",
+				"id": 330,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_83",
+				"id": 331,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_83",
+				"id": 332,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_84",
+				"id": 333,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_84",
+				"id": 334,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_84",
+				"id": 335,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_84",
+				"id": 336,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_85",
+				"id": 337,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_85",
+				"id": 338,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_85",
+				"id": 339,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_85",
+				"id": 340,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_86",
+				"id": 341,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_86",
+				"id": 342,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_86",
+				"id": 343,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_86",
+				"id": 344,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_87",
+				"id": 345,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_87",
+				"id": 346,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_87",
+				"id": 347,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_87",
+				"id": 348,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_88",
+				"id": 349,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_88",
+				"id": 350,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_88",
+				"id": 351,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_88",
+				"id": 352,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_89",
+				"id": 353,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_89",
+				"id": 354,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_89",
+				"id": 355,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_89",
+				"id": 356,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_90",
+				"id": 357,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_90",
+				"id": 358,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_90",
+				"id": 359,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_90",
+				"id": 360,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_91",
+				"id": 361,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_91",
+				"id": 362,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_91",
+				"id": 363,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_91",
+				"id": 364,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_92",
+				"id": 365,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_92",
+				"id": 366,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_92",
+				"id": 367,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_92",
+				"id": 368,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_93",
+				"id": 369,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_93",
+				"id": 370,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_93",
+				"id": 371,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_93",
+				"id": 372,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_94",
+				"id": 373,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_94",
+				"id": 374,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_94",
+				"id": 375,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_94",
+				"id": 376,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_95",
+				"id": 377,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_95",
+				"id": 378,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_95",
+				"id": 379,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_95",
+				"id": 380,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_96",
+				"id": 381,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_96",
+				"id": 382,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_96",
+				"id": 383,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_96",
+				"id": 384,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_97",
+				"id": 385,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_97",
+				"id": 386,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_97",
+				"id": 387,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_97",
+				"id": 388,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_98",
+				"id": 389,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_98",
+				"id": 390,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_98",
+				"id": 391,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_98",
+				"id": 392,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_99",
+				"id": 393,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_99",
+				"id": 394,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_99",
+				"id": 395,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_99",
+				"id": 396,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_100",
+				"id": 397,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_100",
+				"id": 398,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_100",
+				"id": 399,
+				"disponible": true
+			},
+			{
+				"sensor": "sensor_100",
+				"id": 400,
+				"disponible": true
+			}
+		],
+		"Capacidad": 400
+	}
+}
 
