@@ -112,7 +112,7 @@ Aplicación realizada para el funcionamiento del parking a través de sensores y
       ~~~~
       Tras elegir la opción de mostrar estadísticas se mostrará:
       ~~~~
-      Se han realizado: 6 cambios
+        Se han realizado: 6 cambios
         Las 5 plazas más cogidas son: 
         Plaza: 3 ha sido ocupada: 18
         Plaza: 23 ha sido ocupada: 15
