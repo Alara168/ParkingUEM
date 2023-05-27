@@ -35,7 +35,7 @@ Aplicación realizada para el funcionamiento del parking a través de sensores y
     1. **Usuario medio**:
         - Ver plazas libres
         - Coger una Plaza
-        - Vaciar una Plaza
+        - Desocupar una Plaza
     2. **Seguridad**:
         - Cambiar un sensor de estado
     3. **Administrador**:
@@ -47,7 +47,12 @@ Aplicación realizada para el funcionamiento del parking a través de sensores y
     2. Si desea iniciar sesión deberá introducir el nombre de usuario y la contraseña.
         - En caso de no existir o contraseña incorrecta le volverá a preguntar lo que desea hacer.
     ~~~
-    PONER AQUI El CODIGO MOSTRADO DEL INICIO DE SESION
+   Bienvenido al sistema de inicio de sesión
+
+    Seleccione una opción:
+    1. Iniciar sesión
+    2. Registrar usuario
+    3. Salir
     ~~~
 3. Funcionalidad
     1. **Usuario medio**
@@ -61,13 +66,28 @@ Aplicación realizada para el funcionamiento del parking a través de sensores y
         ~~~
        - Tras elegir la opción de ver plazas se mostrará:
             ~~~~
-            Poner aqui el codigo de lo mostrado de plazas libres
+            Plaza: 4
+            Plaza: 25
+            Plaza: 89
+            Plaza: 112
+            Plaza: 175
+            Plaza: 264
+            Plaza: 350
             ~~~~
        - Tras elegir la opción de coger una plaza se mostrará:
             ~~~~
-            Poner aqui el codigo mostrado de una vez has decidio coger una plaza
+            Introduce el id de la plaza la cual quieras ocupar
             ~~~~
-       - Tras elegir la opción de vaciar una plaza se vaciará la plaza y se procederá a cerra la aplicación
+            - Tras introducir el numero de la plaza se mostrará:
+                ~~~~
+                Se ha actualizado el parking: 2
+                ~~~~
+                
+       - Tras elegir la opción de buscar tu coche:
+            ~~~~
+            Tu plaza es: 72
+            ~~~~
+       - Tras elegir la opción de desocupar tu plaza se vaciará la plaza y se procederá a cerra la aplicación
             ~~~~
             Poner aqui el codigo mostrado cuando decides vaciar una plaza
             ~~~~
@@ -75,7 +95,8 @@ Aplicación realizada para el funcionamiento del parking a través de sensores y
 
     2.**Seguridad**
       ~~~~
-      Poner codigo de lo mostrado tras inicio de sesion
+      Para cambiar el estado de una plaza, pulse 1
+      Para salir, pulse 2
       ~~~~
         
       Opción de cambiar un sensor se le preguntará la plaza que desea cambiar
