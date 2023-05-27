@@ -39,9 +39,9 @@ Aplicación realizada para el funcionamiento del parking a través de sensores y
         - Visualización de estadísticas
 2. Inicio de sesión
     1. Al iniciar el programa le preguntará si desea iniciar sesión, registrarse o salir.
-        -Al registrarse siempre se creará la cuenta como usuario medio con username, contraseña y matrícula del coche.
+        - Al registrarse siempre se creará la cuenta como usuario medio con username, contraseña y matrícula del coche.
     2. Si desea iniciar sesión deberá introducir el nombre de usuario y la contraseña.
-        -En caso de no existir o contraseña incorrecta le volverá a preguntar lo que desea hacer.
+        - En caso de no existir o contraseña incorrecta le volverá a preguntar lo que desea hacer.
     
 3. Funcionalidad
 
