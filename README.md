@@ -28,6 +28,17 @@ Aplicación realizada para el funcionamiento del parking a través de sensores y
 5. Compilar y ejecutar el proyecto: Una vez que hayas configurado las dependencias, puedes compilar y ejecutar el proyecto en Eclipse. Asegúrate de tener las configuraciones adecuadas, como las rutas de archivo y las credenciales de acceso, si es necesario.
 
 ## Uso
+1. Tipos de usuario
+    1. Usuario medio:
+    2. Seguridad:
+    3. Administrador:
+2. Inicio de sesión
+    1. Al iniciar el programa le preguntará si desea iniciar sesión, registrarse o salir.
+        -Al registrarse siempre se creará la cuenta como usuario medio con username, contraseña y matrícula del coche.
+    2. Si desea iniciar sesión deberá introducir el nombre de usuario y la contraseña.
+        -En caso de no existir o contraseña incorrecta le volverá a preguntar lo que desea hacer.
+    
+3. Funcionalidad
 
 ## Estructura de archivos
 
