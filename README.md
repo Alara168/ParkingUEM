@@ -99,14 +99,26 @@ Aplicación realizada para el funcionamiento del parking a través de sensores y
       Para salir, pulse 2
       ~~~~
         
-      Opción de cambiar un sensor se le preguntará la plaza que desea cambiar
-      ~~~~
-      Poner lo mostrado cuando decides cambiar un sensor
-      ~~~~
+      - Opción de cambiar un sensor se le preguntará la plaza que desea cambiar
+          ~~~~
+          Introduce el id que quieras cambiar
+          ~~~~
+      - Tras introducir el valor se cerrará la aplicación
+             
     4.**Administrador**
-        Tras elegir la opción de mostrar estadísticas se mostrará:
       ~~~~
-      Poner lo mostrado cuando te muestra las estadisticas
+      Para ver las estadísticas, pulse 1
+      Para salir, pulse 2
+      ~~~~
+      Tras elegir la opción de mostrar estadísticas se mostrará:
+      ~~~~
+      Se han realizado: 6 cambios
+        Las 5 plazas más cogidas son: 
+        Plaza: 3 ha sido ocupada: 18
+        Plaza: 23 ha sido ocupada: 15
+        Plaza: 53 ha sido ocupada: 13
+        Plaza: 89 ha sido ocupada: 9
+        Plaza: 197 ha sido ocupada: 5
       ~~~~
 
 ## Estructura de archivos
