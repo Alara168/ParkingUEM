@@ -46,7 +46,11 @@ Aplicación realizada para el funcionamiento del parking a través de sensores y
 3. Funcionalidad
 
 ## Estructura de archivos
-
+- `main`:
+  - `Sistema.java`: Inicio de sesión.
+  - `Funcionar.java`: En función del tipo de usuario realiza las funciones correspondientes.
+- `data`:
+  - `bbdd.json`: Contiene los datos de las plazas y los usuarios.
 
 ## Dependencias
     - JSON-Simple: 1.1.1
