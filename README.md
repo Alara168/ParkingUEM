@@ -33,9 +33,10 @@ Aplicación realizada para el funcionamiento del parking a través de sensores y
         - Ver plazas libres
         - Coger una Plaza
         - Vaciar una Plaza
-        
     2. Seguridad:
+        - Cambiar un sensor de estado
     3. Administrador:
+        - Visualización de estadísticas
 2. Inicio de sesión
     1. Al iniciar el programa le preguntará si desea iniciar sesión, registrarse o salir.
         -Al registrarse siempre se creará la cuenta como usuario medio con username, contraseña y matrícula del coche.
