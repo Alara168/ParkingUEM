@@ -8,4 +8,6 @@ Aplicación realizada para el funcionamiento del parking a través de sensores y
 ##Estructura de archivos
 ##Dependencias
 ##Licencia
+El software está bajo la licencia:
+  - GNU General Public License v2.0
 
