@@ -15,12 +15,12 @@ Aplicación realizada para el funcionamiento del parking a través de sensores y
 3. Importar el proyecto: En Eclipse, selecciona la opción "Importar" desde el menú "Archivo". Busca la opción "Proyectos existentes en el espacio de trabajo" y haz clic en "Siguiente". A continuación, selecciona la ubicación del proyecto clonado en tu máquina y haz clic en "Finalizar" para importarlo.
 
 4. Configurar las dependencias: Si has utilizado JSON-Simple en tu proyecto, deberás agregar la biblioteca al proyecto en Eclipse. Puedes hacerlo de la siguiente manera:
-    4.1 Descarga el archivo JAR de JSON-Simple desde el repositorio oficial o cualquier otra fuente confiable.
-    4.2 En Eclipse, haz clic derecho en el proyecto importado y selecciona "Propiedades" en el menú contextual.
-    4.3 En la ventana de propiedades, selecciona "Java Build Path" en el panel izquierdo.
-    4.4 Haz clic en la pestaña "Librerías" y luego en "Agregar JAR externo".
-    4.5 Busca y selecciona el archivo JAR de JSON-Simple que descargaste previamente.
-    4.6 Haz clic en "Aplicar" o "Aceptar" para guardar los cambios.
+    1. Descarga el archivo JAR de JSON-Simple desde el repositorio oficial o cualquier otra fuente confiable.
+    2. En Eclipse, haz clic derecho en el proyecto importado y selecciona "Propiedades" en el menú contextual.
+    3. En la ventana de propiedades, selecciona "Java Build Path" en el panel izquierdo.
+    4. Haz clic en la pestaña "Librerías" y luego en "Agregar JAR externo".
+    5. Busca y selecciona el archivo JAR de JSON-Simple que descargaste previamente.
+    6. Haz clic en "Aplicar" o "Aceptar" para guardar los cambios.
 
 5. Configurar las dependencias: Si has utilizado JSON-Simple en tu proyecto, deberás agregar la biblioteca al proyecto en Eclipse. Puedes hacerlo de la siguiente manera:
   4.1 Descarga el archivo JAR de JSON-Simple desde el repositorio oficial o cualquier otra fuente confiable.
