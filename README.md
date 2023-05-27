@@ -1,18 +1,12 @@
 # ParkingUEM
 Aplicación realizada para el funcionamiento del parking a través de sensores y usando un archivo JSON. Su finalidad es permitir a los usuarios coger una plaza en concreto en un parking para leugo poder buscar donde está su coche.
 ## Índice
-- [Instalación](#instalación)
-- [Uso](#uso)
-- [Estructura de archivos](#estructura-de-archivos)
-- [Dependencias](#dependencias)
-- [Licencia](#licencia)
+1. [Instalación](#instalación)
+2. [Uso](#uso)
+3. [Estructura de archivos](#estructura-de-archivos)
+4. [Dependencias](#dependencias)
+5. [Licencia](#licencia)
 
-## Índice
-  1. Instalación 
-  2. Uso
-  3. Estructura de archivos
-  4. Dependencias
-  5. Licencia
 ## Instalación
 
 ## Uso
