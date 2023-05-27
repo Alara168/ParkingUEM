@@ -32,13 +32,13 @@ Aplicación realizada para el funcionamiento del parking a través de sensores y
 
 ## Uso
 1. Tipos de usuario
-    1. Usuario medio:
+    1. **Usuario medio**:
         - Ver plazas libres
         - Coger una Plaza
         - Vaciar una Plaza
-    2. Seguridad:
+    2. **Seguridad**:
         - Cambiar un sensor de estado
-    3. Administrador:
+    3. **Administrador**:
         - Visualización de estadísticas
 
 2. Inicio de sesión
@@ -48,8 +48,10 @@ Aplicación realizada para el funcionamiento del parking a través de sensores y
         - En caso de no existir o contraseña incorrecta le volverá a preguntar lo que desea hacer.
     
 3. Funcionalidad
-    1. Usuario medio
-    2. 
+    1. **Usuario medio**
+        Poner imagen aquí de como saldría cada paso
+    2.**Seguridad**
+    3.**Administrador **
 
 ## Estructura de archivos
 - `main`:
