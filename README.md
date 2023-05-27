@@ -32,6 +32,7 @@ Aplicación realizada para el funcionamiento del parking a través de sensores y
 ## Estructura de archivos
 
 ## Dependencias
+    - JSON-Simple: 1.1.1
 
 ## Licencia
 El software está bajo la licencia:
