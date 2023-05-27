@@ -52,13 +52,36 @@ Aplicación realizada para el funcionamiento del parking a través de sensores y
 3. Funcionalidad
     1. **Usuario medio**
         ~~~
-        PONER AQUI El CODIGO MOSTRADO DEL INICIO DE SESION
+        ------------------- MENU -------------------
+        Para ver las plazas libres, pulse 1
+        Para coger una plaza, pulse 2
+        Para encontrar un coche, pulse 3
+        Para desocupar una plaza, pulse 4
+        Para salir, pulse 5
         ~~~
        - Tras elegir la opción de ver plazas se mostrará:
+            ~~~~
+            Poner aqui el codigo de lo mostrado de plazas libres
+            ~~~~
        - Tras elegir la opción de coger una plaza se mostrará:
+            ~~~~
+            Poner aqui el codigo mostrado de una vez has decidio coger una plaza
+            ~~~~
        - Tras elegir la opción de vaciar una plaza se vaciará la plaza y se procederá a cerra la aplicación
+            ~~~~
+            Poner aqui el codigo mostrado cuando decides vaciar una plaza
+            ~~~~
+        - Tras elegir la opción de salir se cerrará la aplicación
+
     2.**Seguridad**
-        Tras elegir la opción de cambiar un sensor se le preguntará la
+      ~~~~
+      Poner codigo de lo mostrado tras inicio de sesion
+      ~~~~
+        
+      Opción de cambiar un sensor se le preguntará la plaza que desea cambiar
+      ~~~~
+      Poner lo mostrado cuando decides cambiar un sensor
+      ~~~~
     4.**Administrador**
 
 ## Estructura de archivos
