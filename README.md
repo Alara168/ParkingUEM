@@ -113,6 +113,7 @@ Aplicación realizada para el funcionamiento del parking a través de sensores y
 - `main`:
   - `Sistema.java`: Inicio de sesión.
   - `Funcionar.java`: En función del tipo de usuario realiza las funciones correspondientes.
+  - `Organizar.java`: Organiza las plazas de mayor a menor en función de las veces que se ha cogido la plaza.
 - `data`:
   - `bbdd.json`: Contiene los datos de las plazas y los usuarios.
 
