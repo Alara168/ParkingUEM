@@ -30,16 +30,12 @@ Aplicación realizada para el funcionamiento del parking a través de sensores y
 ## Uso
 1. Tipos de usuario
     1. Usuario medio:
-        -Ver plazas libres
-        -Cambiar un sensor de estado
-        -Visualización estadísticas
-
-Coger una Plaza
-
-Vaciar una Plaza
+        - Ver plazas libres
+        - Coger una Plaza
+        - Vaciar una Plaza
         
-    3. Seguridad:
-    4. Administrador:
+    2. Seguridad:
+    3. Administrador:
 2. Inicio de sesión
     1. Al iniciar el programa le preguntará si desea iniciar sesión, registrarse o salir.
         -Al registrarse siempre se creará la cuenta como usuario medio con username, contraseña y matrícula del coche.
