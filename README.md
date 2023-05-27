@@ -15,7 +15,10 @@ Aplicación realizada para el funcionamiento del parking a través de sensores y
 
 2. Configurar Eclipse: Si aún no tienes Eclipse instalado en la máquina de destino, descárgalo e instálalo desde el sitio oficial. Luego, ábrelo y configúralo según tus preferencias.
 
-3. Importar el proyecto: En Eclipse, selecciona la opción "Importar" desde el menú "Archivo". Busca la opción "Proyectos existentes en el espacio de trabajo" y haz clic en "Siguiente". A continuación, selecciona la ubicación del proyecto clonado en tu máquina y haz clic en "Finalizar" para importarlo.
+3. Importar el proyecto: 
+    1. En Eclipse, selecciona la opción "Importar" desde el menú "Archivo". 
+    2. Busca la opción "Proyectos existentes en el espacio de trabajo" y haz clic en "Siguiente". 
+    3. A continuación, selecciona la ubicación del proyecto clonado en tu máquina y haz clic en "Finalizar" para importarlo.
 
 4. Configurar las dependencias: Si has utilizado JSON-Simple en tu proyecto, deberás agregar la biblioteca al proyecto en Eclipse. Puedes hacerlo de la siguiente manera:
     1. Descarga el archivo JAR de JSON-Simple desde el repositorio oficial o cualquier otra fuente confiable.
@@ -37,6 +40,7 @@ Aplicación realizada para el funcionamiento del parking a través de sensores y
         - Cambiar un sensor de estado
     3. Administrador:
         - Visualización de estadísticas
+
 2. Inicio de sesión
     1. Al iniciar el programa le preguntará si desea iniciar sesión, registrarse o salir.
         - Al registrarse siempre se creará la cuenta como usuario medio con username, contraseña y matrícula del coche.
@@ -44,6 +48,8 @@ Aplicación realizada para el funcionamiento del parking a través de sensores y
         - En caso de no existir o contraseña incorrecta le volverá a preguntar lo que desea hacer.
     
 3. Funcionalidad
+    1. Usuario medio
+    2. 
 
 ## Estructura de archivos
 - `main`:
