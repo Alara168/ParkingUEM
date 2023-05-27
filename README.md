@@ -46,12 +46,20 @@ Aplicación realizada para el funcionamiento del parking a través de sensores y
         - Al registrarse siempre se creará la cuenta como usuario medio con username, contraseña y matrícula del coche.
     2. Si desea iniciar sesión deberá introducir el nombre de usuario y la contraseña.
         - En caso de no existir o contraseña incorrecta le volverá a preguntar lo que desea hacer.
-    
+    ~~~
+    PONER AQUI El CODIGO MOSTRADO DEL INICIO DE SESION
+    ~~~
 3. Funcionalidad
     1. **Usuario medio**
-        Poner imagen aquí de como saldría cada paso
+        ~~~
+        PONER AQUI El CODIGO MOSTRADO DEL INICIO DE SESION
+        ~~~
+       - Tras elegir la opción de ver plazas se mostrará:
+       - Tras elegir la opción de coger una plaza se mostrará:
+       - Tras elegir la opción de vaciar una plaza se vaciará la plaza y se procederá a cerra la aplicación
     2.**Seguridad**
-    3.**Administrador **
+        Tras elegir la opción de cambiar un sensor se le preguntará la
+    4.**Administrador**
 
 ## Estructura de archivos
 - `main`:
