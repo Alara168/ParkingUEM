@@ -12,6 +12,9 @@ Aplicación realizada para el funcionamiento del parking a través de sensores y
 ## Instalación
 
 1. Clonar el repositorio: En la máquina de destino, clona el repositorio del proyecto desde un servicio de control de versiones como GitHub o GitLab. Puedes utilizar el comando git clone seguido de la URL del repositorio para hacerlo.
+    - En el caso de hacerlo desde un archivo .zip seguir los siguientes pasos y tras eso pasar al punto 2:
+     1. Descargar el archivo .zip: En la máquina de destino, descarga el archivo .zip que contiene el proyecto desde el repositorio o cualquier otra fuente confiable.
+     2. Extraer el archivo .zip: Extrae el contenido del archivo .zip en una ubicación de tu elección en la máquina de destino. Asegúrate de conservar la estructura de directorios del proyecto dentro del archivo .zip. 
 
 2. Configurar Eclipse: Si aún no tienes Eclipse instalado en la máquina de destino, descárgalo e instálalo desde el sitio oficial. Luego, ábrelo y configúralo según tus preferencias.
 
