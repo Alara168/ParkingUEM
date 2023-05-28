@@ -15,17 +15,23 @@
 			"role": "administrador",
 			"usuario": "admin",
 			"contrasenia": "admin"
+		},
+		{
+			"role": "usuario",
+			"matricula": "1212",
+			"usuario": "juan",
+			"contrasenia": "juan"
 		}
 	],
 	"PARKING": {
 		"Nombre": "Estacionamiento UEM",
 		"Ubicacion": "Calle Tajo  #10",
-		"CambiosSeg": 3,
+		"CambiosSeg": 9,
 		"Plazas": [
 			{
 				"sensor": "sensor_1",
 				"id": 1,
-				"veces_ocupada": 3,
+				"veces_ocupada": 6,
 				"disponible": true
 			},
 			{
@@ -76,6 +82,7 @@
 			{
 				"sensor": "sensor_3",
 				"id": 10,
+				"veces_ocupada": 0,
 				"disponible": true
 			},
 			{
@@ -111,6 +118,7 @@
 			{
 				"sensor": "sensor_5",
 				"id": 17,
+				"veces_ocupada": 0,
 				"disponible": true
 			},
 			{
@@ -131,6 +139,7 @@
 			{
 				"sensor": "sensor_6",
 				"id": 21,
+				"veces_ocupada": 0,
 				"disponible": true
 			},
 			{
@@ -151,6 +160,7 @@
 			{
 				"sensor": "sensor_7",
 				"id": 25,
+				"veces_ocupada": 0,
 				"disponible": true
 			},
 			{
@@ -171,6 +181,7 @@
 			{
 				"sensor": "sensor_8",
 				"id": 29,
+				"veces_ocupada": 0,
 				"disponible": true
 			},
 			{
@@ -211,6 +222,7 @@
 			{
 				"sensor": "sensor_10",
 				"id": 37,
+				"veces_ocupada": 0,
 				"disponible": true
 			},
 			{
@@ -246,11 +258,13 @@
 			{
 				"sensor": "sensor_11",
 				"id": 44,
+				"veces_ocupada": 2,
 				"disponible": true
 			},
 			{
 				"sensor": "sensor_12",
 				"id": 45,
+				"veces_ocupada": 0,
 				"disponible": true
 			},
 			{
@@ -286,6 +300,7 @@
 			{
 				"sensor": "sensor_13",
 				"id": 52,
+				"veces_ocupada": 0,
 				"disponible": true
 			},
 			{
@@ -311,6 +326,7 @@
 			{
 				"sensor": "sensor_15",
 				"id": 57,
+				"veces_ocupada": 0,
 				"disponible": true
 			},
 			{
@@ -521,6 +537,7 @@
 			{
 				"sensor": "sensor_25",
 				"id": 99,
+				"veces_ocupada": 1,
 				"disponible": true
 			},
 			{
@@ -2033,7 +2050,7 @@
 			{
 				"sensor": "sensor_1",
 				"id": 1,
-				"veces_ocupada": 3,
+				"veces_ocupada": 6,
 				"disponible": true
 			},
 			{
@@ -2254,6 +2271,7 @@
 			{
 				"sensor": "sensor_11",
 				"id": 44,
+				"veces_ocupada": 2,
 				"disponible": true
 			},
 			{
@@ -2529,6 +2547,7 @@
 			{
 				"sensor": "sensor_25",
 				"id": 99,
+				"veces_ocupada": 1,
 				"disponible": true
 			},
 			{
@@ -4040,4 +4059,3 @@
 		"Capacidad": 400
 	}
 }
-
