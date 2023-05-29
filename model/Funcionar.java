@@ -300,7 +300,7 @@ public class Funcionar {
 		
 		
 
-		if (plaza < 0 || plaza > 400) {
+		if (plaza < 1 || plaza > 400) {
 			System.out.println("No se puede meter una plaza que esté por debajo del 0 " + "y por encima del 400");
 		} else {
 
